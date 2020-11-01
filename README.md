@@ -1,7 +1,7 @@
 ### Hi, I'm Sakshat 👋
 
 * I love to build products that solve a real-world problem. I'm passionate about web technologies, user experiences, digital products and open source ❤️
-* View My Work at [findsakshat](https://findsakshat.firebaseapp.com) 
+* View my work at [findsakshat](https://findsakshat.firebaseapp.com) 
 
 ### Technical Skill Set:
 * JavaScript
