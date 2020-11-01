@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi, I'm Sakshat 👋
 
-<!--
-**sakshatl/sakshatl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* I love to build products that solve a real-world problem. I'm passionate about web technologies, user experiences, digital products and open source ❤️
+* View My Work at [findsakshat](https://findsakshat.firebaseapp.com) 
 
-Here are some ideas to get you started:
+### Technical Skill Set:
+* JavaScript
+* Python 
+* HTML/CSS 
+* Bootstrap/Material UI 
+* React/Redux 
+* React Native
+* Gatsby
+* Node
+* MongoDB
+* GraphQL
+* Firebase
+* Heroku
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Leadership and Communities
+* Co-founder at [iosf.in](https://iosf.in/) where we are building products for the dev community and helping new devs to kick-start thier open source contribution.
+
+
+
+
+
+
+
+
