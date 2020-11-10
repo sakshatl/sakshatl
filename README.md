@@ -18,7 +18,7 @@
 * Heroku
 
 ### Communities
-* Co-founder at [iosf.in](https://iosf.in/) where I'm are building products for the dev community and helping new devs to kick-start thier open source contribution.
+* Co-founder at [iosf.in](https://iosf.in/) where I'm are building products for the dev community and helping new devs to kick-start their open source contribution.
 
 
 
